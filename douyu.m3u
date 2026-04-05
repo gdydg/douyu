@@ -1,3 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="YYF" group-title="斗鱼直播",YYF
 http://vplay1a.douyucdn.cn/live/9999rMfVyoBTjV0x.flv?uuid=
+#EXTINF:-1 tvg-name="大司马" group-title="斗鱼直播",大司马
+http://vplay1a.douyucdn.cn/live/71415ryinzitv.flv?uuid=
+#EXTINF:-1 tvg-name="Doinb" group-title="斗鱼直播",Doinb
+http://vplay1a.douyucdn.cn/live/1126960rRgChTqU8.flv?uuid=
